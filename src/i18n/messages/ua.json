@@ -1,0 +1,55 @@
+{
+  "common": {
+    "admin": "адмін",
+    "logout": "вийти"
+  },
+  "components": {
+    "features": {
+      "quiz": {
+        "buttons": {
+          "check": "перевірити",
+          "complete": "завершити",
+          "continue": "продовжити",
+          "hearts_limit": "у вас закінчилися серця"
+        },
+        "corrects": {
+          "amazing": "приголомшливо",
+          "awesome": "дивовижно",
+          "excellent": "відмінно",
+          "great": "чудово",
+          "great_job": "чудова робота",
+          "nice": "гарно",
+          "nice_job": "гарна робота",
+          "nicely_done": "гарно зроблено"
+        },
+        "hard_exercise": "важка вправа"
+      }
+    },
+    "widgets": {
+      "sidebar": {
+        "leaderboards": "таблиця лідерів",
+        "learn": "навчатися",
+        "shop": "магазин"
+      }
+    }
+  },
+  "pages": {
+    "leaderboards": {
+      "subtitle": "подивіться, де ви знаходитесь серед інших учнів у громаді.",
+      "title": "Таблиця лідерів"
+    },
+    "learn": {
+      "no_lessons": "уроків ще немає",
+      "start": "почати"
+    },
+    "shop": {
+      "cards": {
+        "refill_hearts": "поповнити серця",
+        "unlimited_hearts": "необмежені серця",
+        "upgrade": "оновити"
+      },
+      "subtitle": "Витрачайте бали на круті речі.",
+      "title": "Магазин"
+    }
+  }
+}

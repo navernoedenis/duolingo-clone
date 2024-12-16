@@ -1,0 +1,55 @@
+{
+  "common": {
+    "admin": "admin",
+    "logout": "logout"
+  },
+  "components": {
+    "features": {
+      "quiz": {
+        "buttons": {
+          "check": "check",
+          "complete": "complete",
+          "continue": "continue",
+          "hearts_limit": "you have run out of hearts"
+        },
+        "corrects": {
+          "amazing": "amazing",
+          "awesome": "awesome",
+          "excellent": "excellent",
+          "great": "great",
+          "great_job": "great job",
+          "nice": "nice",
+          "nice_job": "nice job",
+          "nicely_done": "nicely done"
+        },
+        "hard_exercise": "hard exercise"
+      }
+    },
+    "widgets": {
+      "sidebar": {
+        "leaderboards": "leaderboards",
+        "learn": "learn",
+        "shop": "shop"
+      }
+    }
+  },
+  "pages": {
+    "leaderboards": {
+      "subtitle": "See where you stand among other learners in the community.",
+      "title": "Leaderboard"
+    },
+    "learn": {
+      "no_lessons": "no lessons yet",
+      "start": "start"
+    },
+    "shop": {
+      "cards": {
+        "refill_hearts": "refill hearts",
+        "unlimited_hearts": "unlimited hearts",
+        "upgrade": "upgrade"
+      },
+      "subtitle": "Spend your points on cool stuff.",
+      "title": "Shop"
+    }
+  }
+}
